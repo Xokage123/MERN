@@ -1,0 +1,6 @@
+{
+  "port": 80,
+  "mongoUri": "mongodb+srv://Artemov:qwewqasdsazxcxz@cluster0.03aaq.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+  "jwtSecret": "3x|L5fu0WjqivPHavBEPFQU%NN#9Xm",
+  "baseUrl": "http://card-world.ru"
+}
