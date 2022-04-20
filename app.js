@@ -31,7 +31,7 @@ async function start() {
       // useCreateIndex: true
     })
 
-    app.listen(PORT, () => console.log('sdasdasd'))
+    app.listen(PORT, () => console.log('Сервер запущен на порту:', PORT))
 
   } catch (error) {
     console.log('Server Error', error.message)
